@@ -1,0 +1,15 @@
+{
+    "kind": "collection#dns-server",
+    "items": [
+        {
+            "kind": "object#dns-server",
+            "ip-address": "173.25.25.25",
+            "primary": true
+        },
+        {
+            "kind": "object#dns-server",
+            "ip-address": "173.25.25.26",
+            "primary": false
+        }
+    ]
+}

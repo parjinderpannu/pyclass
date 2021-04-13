@@ -1,0 +1,79 @@
+  "The basic elements of Python semantics are _objects_ and
+    _variables_.  Objects are the data entities that are created and
+    manipulated by Python programs.  Variables are just the names used
+    in a program to refer to objects.
+
+    In Python, each object has a particular _type_, which characterizes
+    its behavior.  A type defines a set of operations that create
+    and manipulate objects of that type.  An object may be created
+    and manipulated only via the operations of its type.
+
+    An object may _refer_ to objects.  For example, a instance object
+    refers to the objects that are the components of the instance.
+    This notion is one of logical, not physical, containment.  In
+    particular, it is possible for two distinct instance objects to
+    refer to (or _share_) the same component object.  In the case of
+    a cyclic structure, it is even possible for an object to
+    "contain" itself.  Thus it is possible to have recursive data
+    structure definitions and shared data objects without explicit
+    reference types. /.../
+
+    Python objects exist independently of function or method activations.  Space
+    for objects is allocated from a dynamic storage area /.../ In
+    theory, all objects continue to exist forever.  In practice, the
+    space used by an object may be reclaimed when the object isno
+    longer accessible to any Python program.
+
+    An object may exhibit time-varying behavior.  Such an object,
+    called a _mutable_ object, has a state which may be modified by
+    certain operations without changing the identity of the
+    object. /.../
+
+    If a mutable object _m_ is shared by two other objects _x_ and
+    _y_, then a modification to _m_ made via _x_ wil be visible when
+    _m_ is examined via _y_.  /.../
+
+    Objects that do not exhibit time-varying behavior are called
+    _immutable_ objects, or constants.  Examples of constants are
+    integers, booleans, characters, and strings.  The value of a
+    constant object can not be modified.  For example, new strings
+    may be computed from old ones, but existing strings do not
+    change.  Similarily, none of the integer operations modify the
+    integers passed to them as arguments.
+
+    Variables are names used in Python programs to _denote_ particular
+    objects at execution time.  Unlike variables in many common
+    programming languages, which _are_ objects that _contain_
+    values, Python variables are simply names that the programmer uses
+    to refer to objects.  As such, it is possible for two variables
+    to denote (or _share_) the same object.  Python variables are much
+    like those in LISP and are similar to pointer variables in other
+    languages.  However, Python variables are _not_ objects; they
+    cannot be denoted by other variables or referred to by
+    objects. /.../
+
+    The basic actions in Python are _assignment_ and _function or method
+    invocation_.  The assignment primitive 'x := E' where _x_ is a
+    variable and _E_ is an expression, causes _x_ to denote the
+    object resulting from the evaulation of _E_.  For example, if
+    _E_ is a simple variable _y_, then the assignment 'x := y'
+    causes _x_ to denote the object denoted by _y_.  The object is
+    _not_ copied, it will be _shared_ by _x_ and _y_.  Assignment
+    does not affect the state of any object.  (Recall that 'r.s :=
+    v' is not a true assignment, but an abbreviation for 'put.s(r,
+    v)'.)
+
+    function or method invocation involves passing argument objects from the
+    caller to the called function or method and returning result objects from
+    the function or method to the caller.  The formal arguments of a
+    function or method are considered to be local variables of the function or method
+    and are initialized, by assignment, to the objects resulting
+    from the evaluation of the argument expressions.  Thus argument
+    objects are shared between the caller and the called function or method.
+    A function or method may modify mutable argument objects (e.g. instances),
+    but of course it cannot modify immutable ones (e.g. integers).
+    A function or method has no access to the variables of its caller.
+
+    function or method invocations may be used directly as statements; those
+    that return objects may also be used as expressions.  Arbitrary
+    recursive function or methods are permitted."

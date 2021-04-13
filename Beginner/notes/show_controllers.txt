@@ -1,0 +1,15 @@
+0x0000 TOP: CHIP_DEV_ID                        : 0x0000eac5
+0x0000 TOP: CHIP_DEV_VER                       : 0x00000003
+0x0000 RX: PCS_HIBER_CNT_NR                    : 0x00000000
+0x0000 RX: PCS_BLKERR_CNT_NR                   : 0x00000000
+0x0000 RX: HI_BER_LH                           : 0x00000000
+0x0000 RX: PCS_RXLINK_STAT                     : 0x00000001
+0x0000 RX: BLOCK_LOCK_LL                       : 0x00000001
+0x0000 RX: HSIFBu_GR_RLD_LOCKDET               : 0x00000001
+0x0000 TX: HSIFBu_GC_RLD_LOCKDET               : 0x00000001
+0x0000 TX: LANE_ALIGN                          : 0x00000001
+0x0000 TX: LANE_SYNC                           : 0x0000000f
+0x0000 TX: XCDR_ERR_CNT_NR_0                   : 0x00000000
+0x0000 TX: XCDR_ERR_CNT_NR_1                   : 0x00000000
+0x0000 TX: XCDR_ERR_CNT_NR_2                   : 0x00000000
+0x0000 TX: XCDR_ERR_CNT_NR_3                   : 0x00000000

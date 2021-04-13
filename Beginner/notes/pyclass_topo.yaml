@@ -1,0 +1,13 @@
+devices:
+    ASA-01:
+        type: vios
+        credentials:
+            default:
+                username: "cisco"
+                password: "cisco"
+        connections:
+            net:
+                class: unicon.Unicon
+                protocol: telnet
+                ip: lab.glidelink.net
+                port: 2001

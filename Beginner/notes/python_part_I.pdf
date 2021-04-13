@@ -1,0 +1,645 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.python.org/downloads)
+>> /Border [ 0 0 0 ] /Rect [ 82.69291 648.7736 234.9829 660.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://learn.cisco.com?courseId=COT00119819)
+>> /Border [ 0 0 0 ] /Rect [ 82.69291 263.7736 297.5129 275.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Annots [ 5 0 R 6 0 R ] /Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Outlines 10 0 R /PageLabels 20 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+9 0 obj
+<<
+/Author () /CreationDate (D:20191022081924+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20191022081924+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Python for Engineers: Part I) /Trapped /False
+>>
+endobj
+10 0 obj
+<<
+/Count 6 /First 11 0 R /Last 16 0 R /Type /Outlines
+>>
+endobj
+11 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 729.0236 0 ] /Next 12 0 R /Parent 10 0 R /Title (Description)
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 354.0236 0 ] /Next 13 0 R /Parent 10 0 R /Prev 11 0 R /Title (Learning Objectives)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 4 0 R /XYZ 62.69291 213.0236 0 ] /Next 14 0 R /Parent 10 0 R /Prev 12 0 R /Title (Prerequisites)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 765.0236 0 ] /Next 15 0 R /Parent 10 0 R /Prev 13 0 R /Title (Additional Course Information)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 636.0236 0 ] /Next 16 0 R /Parent 10 0 R /Prev 14 0 R /Title (Recommended Audience)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 7 0 R /XYZ 62.69291 573.0236 0 ] /Parent 10 0 R /Prev 15 0 R /Title (Course Outline)
+>>
+endobj
+17 0 obj
+<<
+/Count 2 /Kids [ 4 0 R 7 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 7370
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 102.6949 0 Td (Python for Engineers: Part I) Tj T* -102.6949 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 708.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.00284 Tw (In this 4-day training program, students will establish a solid foundation in core Python programming) Tj T* 0 Tw (language.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Exercises cover common tasks in:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 654.0236 cm
+Q
+q
+1 0 0 1 62.69291 642.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (data acquisition \(via raw input from users, from files, from urls, and from sockets\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 636.0236 cm
+Q
+q
+1 0 0 1 62.69291 612.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL -0.039249 Tw (data parsing \(including English text, HTML, column-oriented text, CSV and delimited files, JSON, and) Tj T* 0 Tw (XML\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+Q
+q
+1 0 0 1 62.69291 582.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.726976 Tw (data analysis \(using list comprehensions, generator expressions, sets, dictionaries, and named) Tj T* 0 Tw (tuples\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (output formatting \(using templating to create HTML, vcards, and other output formats\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Themes of the class include:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 540.0236 cm
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (learning Python norms, idioms, and programming practices) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 522.0236 cm
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.823828 Tw (developing a clear mental model of the language \(magic methods, the object model, memory) Tj T* 0 Tw (management, mutability, performance and scaling, etc\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 492.0236 cm
+Q
+q
+1 0 0 1 62.69291 480.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (developing an expressive style that realizes the full advantages of the language) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 474.0236 cm
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (becoming proficient at rapid application development and repeatable patterns of problem solving) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 462.0236 cm
+Q
+q
+1 0 0 1 62.69291 396.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .968976 Tw (Topics include program organization, principles of object-oriented programming, testing, and debugging.) Tj T* 0 Tw 1.570651 Tw (There is special focus on using REST APIs and modern data interchange techniques. The section on) Tj T* 0 Tw 3.013059 Tw (socket programming includes HTTP headers and their practical use in REST APIs and networked) Tj T* 0 Tw .331235 Tw (applications. The examples include a UDP client, UDP server, TCP client, and TCP server. If time allows,) Tj T* 0 Tw (the examples are extended with multi-threading and multi-processing.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .202651 Tw (The style of the class is highly interactive with extensive intensive instructor led problem solving. Students) Tj T* 0 Tw (are expected to have high levels of active engagement throughout the class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 333.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Learning Objectives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 291.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.438555 Tw (Although no prior experience with Python is required, this course assumes that students have prior) Tj T* 0 Tw 2.724985 Tw (experience with some other programming language such as C, C++, Java, or Perl. This is not an) Tj T* 0 Tw (introductory class for absolute beginners on how to program a computer!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 225.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.209269 Tw (Participants should already be familiar with the basic concepts of programming such as variables, data) Tj T* 0 Tw 1.527976 Tw (types, statements, control-flow, functions, arrays, data structures, and common programming problems) Tj T* 0 Tw .177633 Tw (\(e.g., searching, sorting, etc.\). In addition, it is assumed that students already know how to work with files,) Tj T* 0 Tw .577251 Tw (folders, editors, command shells, environment settings, internet connections, and other essential aspects) Tj T* 0 Tw (of using a computer for software development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Prerequisites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 150.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.438555 Tw (Although no prior experience with Python is required, this course assumes that students have prior) Tj T* 0 Tw 2.724985 Tw (experience with some other programming language such as C, C++, Java, or Perl. This is not an) Tj T* 0 Tw (introductory class for absolute beginners on how to program a computer!) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.209269 Tw (Participants should already be familiar with the basic concepts of programming such as variables, data) Tj T* 0 Tw 1.527976 Tw (types, statements, control-flow, functions, arrays, data structures, and common programming problems) Tj T* 0 Tw .177633 Tw (\(e.g., searching, sorting, etc.\). In addition, it is assumed that students already know how to work with files,) Tj T* 0 Tw .577251 Tw (folders, editors, command shells, environment settings, internet connections, and other essential aspects) Tj T* 0 Tw (of using a computer for software development.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 84.02362 cm
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Length 4544
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 744.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Additional Course Information) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 726.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Systems Requirements:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 684.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.12686 Tw (This is a hands-on course where students will be expected to write programs. Students are required to) Tj T* 0 Tw .812126 Tw (bring their own computer \(Windows, Macintosh, or Linux\) which should have Python 3.7 installed before) Tj T* 0 Tw (the first day of class.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The installation instructions can be found here:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 660.0236 cm
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://www.python.org/downloads) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 648.0236 cm
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Recommended Audience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 585.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.039147 Tw (The audience is broad and includes sales engineers, security specialists, developers, quality assurance) Tj T* 0 Tw (engineers, and anyone needing to use a powerful and clean scripting language.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 552.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Course Outline) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 534.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Day 1:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL 1.173828 Tw (Thorough business level overview of Python \(what problems it solves, language philosophy, how it) Tj T* 0 Tw 2.028443 Tw (used\). Set-up a working interactive environment. Introduce all the core objects and basic mental) Tj T* 0 Tw 1.174597 Tw (model of the language. Work through a practical exercise involving CSV parsing, iteration, multiple) Tj T* 0 Tw .018555 Tw (assignment, the with-statement, try-finally, templating, writing to files, opening urls, and direct use of a) Tj T* 0 Tw (REST API.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 455.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Day 2:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 404.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 3.306976 Tw (Cover object-oriented programming. Cover the internal object model including magic methods,) Tj T* 0 Tw 1.389213 Tw (memory management, and references. Work on a non-trivial data analysis project. Cover the core) Tj T* 0 Tw .403828 Tw (objects in greater detail. Parse JSON, XML, and column-oriented text. Demonstrate the effective use) Tj T* 0 Tw (of named tuples.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 388.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Day 3:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 361.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .461984 Tw (Cover list comprehensions for data analysis. Develop a custom REPL and create a doctest tool from) Tj T* 0 Tw (scratch. Cover the core python looping idioms and introduce generators) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 345.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Day 4:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.033615 Tw (Cover miscellaneous core language topics such as variable-length argument parsing and argument) Tj T* 0 Tw .855814 Tw (unpacking. Cover import logic. Build skills parsing data with regular expressions and BeautifulSoup.) Tj T* 0 Tw .96229 Tw (Learn network programming including details of HTTP headers. Build client and servers using UDP) Tj T* 0 Tw (and TCP. If time allows, extend the examples with multi-threading and multi-processing.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 278.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Share Course Link:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 263.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 .501961 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (https://learn.cisco.com?courseId=COT00119819) Tj T* ET
+Q
+Q
+q
+Q
+Q
+ 
+endstream
+endobj
+20 0 obj
+<<
+/Nums [ 0 21 0 R 1 22 0 R ]
+>>
+endobj
+21 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+22 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000538 00000 n 
+0000000722 00000 n 
+0000000918 00000 n 
+0000001147 00000 n 
+0000001252 00000 n 
+0000001537 00000 n 
+0000001611 00000 n 
+0000001723 00000 n 
+0000001856 00000 n 
+0000001983 00000 n 
+0000002126 00000 n 
+0000002260 00000 n 
+0000002375 00000 n 
+0000002441 00000 n 
+0000009863 00000 n 
+0000014459 00000 n 
+0000014509 00000 n 
+0000014543 00000 n 
+trailer
+<<
+/ID 
+[<64e99758e7adcccd556052160a31711a><64e99758e7adcccd556052160a31711a>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 9 0 R
+/Root 8 0 R
+/Size 23
+>>
+startxref
+14577
+%%EOF

@@ -1,0 +1,24 @@
+PING origin-www.cisco.com (72.163.4.161): 56 data bytes
+64 bytes from 72.163.4.161: icmp_seq=0 ttl=243 time=53.071 ms
+64 bytes from 72.163.4.161: icmp_seq=1 ttl=243 time=49.590 ms
+64 bytes from 72.163.4.161: icmp_seq=2 ttl=243 time=44.558 ms
+64 bytes from 72.163.4.161: icmp_seq=3 ttl=243 time=44.323 ms
+64 bytes from 72.163.4.161: icmp_seq=4 ttl=243 time=45.037 ms
+64 bytes from 72.163.4.161: icmp_seq=5 ttl=243 time=45.960 ms
+64 bytes from 72.163.4.161: icmp_seq=6 ttl=243 time=44.674 ms
+64 bytes from 72.163.4.161: icmp_seq=7 ttl=243 time=44.441 ms
+64 bytes from 72.163.4.161: icmp_seq=8 ttl=243 time=44.855 ms
+64 bytes from 72.163.4.161: icmp_seq=9 ttl=243 time=44.678 ms
+64 bytes from 72.163.4.161: icmp_seq=10 ttl=243 time=45.089 ms
+64 bytes from 72.163.4.161: icmp_seq=11 ttl=243 time=46.004 ms
+64 bytes from 72.163.4.161: icmp_seq=12 ttl=243 time=44.485 ms
+64 bytes from 72.163.4.161: icmp_seq=13 ttl=243 time=44.647 ms
+64 bytes from 72.163.4.161: icmp_seq=14 ttl=243 time=45.001 ms
+64 bytes from 72.163.4.161: icmp_seq=15 ttl=243 time=45.082 ms
+64 bytes from 72.163.4.161: icmp_seq=16 ttl=243 time=44.376 ms
+64 bytes from 72.163.4.161: icmp_seq=17 ttl=243 time=44.971 ms
+64 bytes from 72.163.4.161: icmp_seq=18 ttl=243 time=43.967 ms
+
+--- origin-www.cisco.com ping statistics ---
+19 packets transmitted, 19 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 43.967/45.516/53.071/2.129 ms

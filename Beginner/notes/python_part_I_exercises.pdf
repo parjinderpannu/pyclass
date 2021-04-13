@@ -1,0 +1,523 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://docs.python.org/3/library/index.html)
+>> /Border [ 0 0 0 ] /Rect [ 133.8812 726.3165 359.3132 740.7165 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://pythontutor.com)
+>> /Border [ 0 0 0 ] /Rect [ 160.5332 685.5165 289.1852 699.9165 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://www.mockaroo.com)
+>> /Border [ 0 0 0 ] /Rect [ 189.5732 600.5165 339.5281 614.9165 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (http://nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)
+>> /Border [ 0 0 0 ] /Rect [ 174.2252 230.7165 478.4642 245.1165 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 17 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 19 0 R /PageMode /UseNone /Pages 17 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20190322180527+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190322180527+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Exercises) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 5 /First 12 0 R /Last 16 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 780.9165 0 ] /Next 13 0 R /Parent 11 0 R /Title (Day 1)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 545.3165 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Day 2)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 338.5165 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Day 3)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 204.3165 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Day 4)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 146.7165 0 ] /Parent 11 0 R /Prev 15 0 R /Title (Following 2 weeks)
+>>
+endobj
+17 0 obj
+<<
+/Count 1 /Kids [ 8 0 R ] /Type /Pages
+>>
+endobj
+18 0 obj
+<<
+/Length 6755
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 792.9165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 24 Tf 28.8 TL 221.4246 0 Td (Exercises) Tj T* -221.4246 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 755.7165 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Day 1) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 743.7165 cm
+Q
+q
+1 0 0 1 20.17323 743.7165 cm
+Q
+q
+1 0 0 1 20.17323 729.3165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 0 0 rg (Read 5 minutes: ) Tj 0 0 .501961 rg (https://docs.python.org/3/library/index.html) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 723.3165 cm
+Q
+q
+1 0 0 1 20.17323 708.9165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Read 5 minutes: help\(str\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 702.9165 cm
+Q
+q
+1 0 0 1 20.17323 671.1165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 14.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 14.4 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F2 12 Tf 0 0 0 rg (Spend 5 minutes on ) Tj 0 0 .501961 rg (http://pythontutor.com) Tj 0 0 0 rg ( with some simple code you tried.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Suggestion: try some for loops step by step) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 671.1165 cm
+Q
+q
+1 0 0 1 20.17323 650.7165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Meditation question: Name an advantage of open source) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 632.3165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (Project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 557.3165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 60 Tm 2.49489 Tw 14.4 TL /F1 12 Tf 0 0 0 rg (Use MS Excel to create a list of at least 25 people's names, titles, phone numbers, and email) Tj T* 0 Tw 1.18378 Tw (addresses \(Feel free to use ) Tj 0 0 .501961 rg (https://www.mockaroo.com) Tj 0 0 0 rg ( for data inspiration\). Save the file as CSV.) Tj T* 0 Tw 1.945714 Tw (Use Python's CSV reader to loop over the data. Use a print template to create VCard files \(see) Tj T* 0 Tw .396302 Tw (wikipedia for the VCard format\). Use the code from vcard.py as a model for creating QR codes from) Tj T* 0 Tw (the Vcards \(see the REST API links in the cheatsheet\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 520.1165 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Day 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 508.1165 cm
+Q
+q
+1 0 0 1 20.17323 508.1165 cm
+Q
+q
+1 0 0 1 20.17323 493.7165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Read 5 minutes: printed materials) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 487.7165 cm
+Q
+q
+1 0 0 1 20.17323 473.3165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Read 5 minutes: help\(list\), help\(dict\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 467.3165 cm
+Q
+q
+1 0 0 1 20.17323 435.5165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 14.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 14.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (Read 5 minutes the code for log_analysis.py and grand_tour.py. Write down) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (your questions for class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 435.5165 cm
+Q
+q
+1 0 0 1 20.17323 415.1165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Meditation question: How would you describe what the with-statement does?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 396.7165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (Project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 350.5165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 33.2 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F1 12 Tf 14.4 TL .150321 Tw (Make a list of servers you have access to. Use Python to generate ping's between them. Summarize) Tj T* 0 Tw .696395 Tw (the ping times in a graph structure \(use a dict d[fromserver, toserver]=pingtime\). Generate graphviz) Tj T* 0 Tw (output, possibly showing each node in a position corresponding to its physical location\).) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 313.3165 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Day 3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 301.3165 cm
+Q
+q
+1 0 0 1 20.17323 301.3165 cm
+Q
+q
+1 0 0 1 20.17323 286.9165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Use your 15 minutes reading time to review the code we cover in class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 280.9165 cm
+Q
+q
+1 0 0 1 20.17323 266.5165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 9.8 0 Td (\177) Tj T* -9.8 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Write down your questions for class.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 266.5165 cm
+Q
+q
+1 0 0 1 20.17323 248.1165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (Project:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 216.3165 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 18.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 16.8 Tm 2.196733 Tw 14.4 TL /F1 12 Tf 0 0 0 rg (Using nextbus Rest API \() Tj 0 0 .501961 rg (http://nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf) Tj 0 0 0 rg (\) ensure the next) Tj T* 0 Tw (sf-muni 'N' bus will come to Judah St & La Playa St within 5 minutes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 179.1165 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Day 4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 158.7165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (We will do code review of class Projects during day 4.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 121.5165 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Following 2 weeks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 101.1165 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Spend 2 weekly hours reviewing class content material, class log files and suggested material in links.txt) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+19 0 obj
+<<
+/Nums [ 0 20 0 R ]
+>>
+endobj
+20 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000000073 00000 n 
+0000000114 00000 n 
+0000000221 00000 n 
+0000000333 00000 n 
+0000000529 00000 n 
+0000000703 00000 n 
+0000000879 00000 n 
+0000001080 00000 n 
+0000001321 00000 n 
+0000001426 00000 n 
+0000001693 00000 n 
+0000001767 00000 n 
+0000001873 00000 n 
+0000001992 00000 n 
+0000002111 00000 n 
+0000002230 00000 n 
+0000002348 00000 n 
+0000002408 00000 n 
+0000009215 00000 n 
+0000009256 00000 n 
+trailer
+<<
+/ID 
+[<d77893fd20c1e82e79c04796d55a175d><d77893fd20c1e82e79c04796d55a175d>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 21
+>>
+startxref
+9290
+%%EOF

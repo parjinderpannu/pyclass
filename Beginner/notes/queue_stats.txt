@@ -1,0 +1,73 @@
+avb1# sh system internal qos queuing stats interface e1/10
+ 
+Interface Ethernet1/10 statistics
+Receive queues
+----------------------------------------
+    Queue 8021qav-4q8q-in-q-default
+        Total bytes                  8580832
+        Total packets                133728
+        Pl Drops                     0
+        Vq Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-in-q1
+        Total bytes                  445873169
+        Total packets                5563074
+        Pl Drops                     0
+        Vq Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-in-q4
+        Total bytes                  0
+        Total packets                0
+        Pl Drops                     0
+        Vq Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-in-q3
+        Total bytes                  177663812949882
+        Total packets                1410030261677
+        Pl Drops                     0
+        Vq Drops                     0
+        Other Drops                  0
+Transmit queues
+----------------------------------------
+    Queue 8021qav-4q8q-out-q4
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     4135883724
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q5
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q6
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q7
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q1
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q2
+        Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q3
+       Total bytes                  0
+        Total packets                0
+        Eb Drops                     0
+        Other Drops                  0
+    Queue 8021qav-4q8q-out-q-default
+        Total bytes                  50016709541
+        Total packets                478494546
+        Eb Drops                     0
+        Other Drops                  0
+avb1#
+ 

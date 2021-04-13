@@ -1,0 +1,1078 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 4 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+5 0 obj
+<<
+/Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+7 0 obj
+<<
+/Contents 28 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Contents 29 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+9 0 obj
+<<
+/Outlines 11 0 R /PageLabels 30 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
+>>
+endobj
+10 0 obj
+<<
+/Author () /CreationDate (D:20190322171613+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20190322171613+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (General Notes) /Trapped /False
+>>
+endobj
+11 0 obj
+<<
+/Count 13 /First 12 0 R /Last 24 0 R /Type /Outlines
+>>
+endobj
+12 0 obj
+<<
+/Dest [ 5 0 R /XYZ 20.17323 778.0819 0 ] /Next 13 0 R /Parent 11 0 R /Title (Containers)
+>>
+endobj
+13 0 obj
+<<
+/Dest [ 5 0 R /XYZ 20.17323 540.8819 0 ] /Next 14 0 R /Parent 11 0 R /Prev 12 0 R /Title (Lists versus iterators)
+>>
+endobj
+14 0 obj
+<<
+/Dest [ 5 0 R /XYZ 20.17323 314.0819 0 ] /Next 15 0 R /Parent 11 0 R /Prev 13 0 R /Title (Convert to other types)
+>>
+endobj
+15 0 obj
+<<
+/Dest [ 5 0 R /XYZ 20.17323 212.4819 0 ] /Next 16 0 R /Parent 11 0 R /Prev 14 0 R /Title (Comprehension)
+>>
+endobj
+16 0 obj
+<<
+/Dest [ 6 0 R /XYZ 20.17323 818.8819 0 ] /Next 17 0 R /Parent 11 0 R /Prev 15 0 R /Title (With-Statement)
+>>
+endobj
+17 0 obj
+<<
+/Dest [ 6 0 R /XYZ 20.17323 380.0819 0 ] /Next 18 0 R /Parent 11 0 R /Prev 16 0 R /Title (Coding style)
+>>
+endobj
+18 0 obj
+<<
+/Dest [ 7 0 R /XYZ 20.17323 818.8819 0 ] /Next 19 0 R /Parent 11 0 R /Prev 17 0 R /Title (Regex notation)
+>>
+endobj
+19 0 obj
+<<
+/Dest [ 7 0 R /XYZ 20.17323 191.3701 0 ] /Next 20 0 R /Parent 11 0 R /Prev 18 0 R /Title (Logging)
+>>
+endobj
+20 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 750.4819 0 ] /Next 21 0 R /Parent 11 0 R /Prev 19 0 R /Title (Auto-documentation)
+>>
+endobj
+21 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 657.2819 0 ] /Next 22 0 R /Parent 11 0 R /Prev 20 0 R /Title (Directories)
+>>
+endobj
+22 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 535.2819 0 ] /Next 23 0 R /Parent 11 0 R /Prev 21 0 R /Title (How to use subprocess)
+>>
+endobj
+23 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 433.6819 0 ] /Next 24 0 R /Parent 11 0 R /Prev 22 0 R /Title (REST APIs)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 8 0 R /XYZ 20.17323 258.4026 0 ] /Parent 11 0 R /Prev 23 0 R /Title (Debugger)
+>>
+endobj
+25 0 obj
+<<
+/Count 4 /Kids [ 5 0 R 6 0 R 7 0 R 8 0 R ] /Type /Pages
+>>
+endobj
+26 0 obj
+<<
+/Length 5560
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 790.0819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.8 Tm /F2 24 Tf 28.8 TL 196.1046 0 Td (General Notes) Tj T* -196.1046 0 Td ET
+Q
+Q
+q
+1 0 0 1 20.17323 752.8819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Containers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 732.4819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (How to make tuples and lists and dicts and sets:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 552.8819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 170.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 146.4 Tm /F3 12 Tf 14.4 TL (Length 0) Tj T* (list:  []) Tj T* (tuple: \(\)) Tj T* (dict:  {}) Tj T* (set:   set\(\)) Tj T*  T* (Length 1) Tj T* (      [10]  [10,]) Tj T* (      10,   \(10,\)) Tj T* (      {'raymond': 'red'}) Tj T* (      {10}) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 515.6819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Lists versus iterators) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 503.6819 cm
+Q
+q
+1 0 0 1 20.17323 489.2819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (List ~ inventory ~ uses much mem) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 474.8819 cm
+q
+BT 1 0 0 1 0 2.4 Tm 14.4 TL /F1 12 Tf 0 0 0 rg (Iterator ~ jit manufacturing ~ memory friendly -) Tj (> fast) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 474.8819 cm
+Q
+q
+1 0 0 1 20.17323 468.8819 cm
+Q
+q
+1 0 0 1 20.17323 326.0819 cm
+1 1 1 rg
+n 0 142.8 554.9291 -20.4 re f*
+.878431 .878431 .878431 rg
+n 0 122.4 554.9291 -20.4 re f*
+1 1 1 rg
+n 0 102 554.9291 -20.4 re f*
+.878431 .878431 .878431 rg
+n 0 81.6 554.9291 -20.4 re f*
+1 1 1 rg
+n 0 61.2 554.9291 -20.4 re f*
+.878431 .878431 .878431 rg
+n 0 40.8 554.9291 -20.4 re f*
+1 1 1 rg
+n 0 20.4 554.9291 -20.4 re f*
+.960784 .960784 .862745 rg
+n 0 142.8 554.9291 -20.4 re f*
+0 0 0 rg
+BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 6 125.4 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 215.0165 14.4 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 100.1762 0 Td (list) Tj T* -100.1762 0 Td ET
+Q
+Q
+q
+1 0 0 1 233.0165 125.4 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 315.9127 14.4 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL 139.2843 0 Td (iterator) Tj T* -139.2843 0 Td ET
+Q
+Q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (range\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 105 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (xrange\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 84.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (zip\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 84.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (izip\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 64.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (--) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 64.2 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (enumerate\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (--) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 43.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (reversed\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 23.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (sorted\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 23.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (--) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (d.items\(\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 233.0165 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (d.iteritems\(\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 122.4 m 554.9291 122.4 l S
+n 0 102 m 554.9291 102 l S
+n 0 81.6 m 554.9291 81.6 l S
+n 0 61.2 m 554.9291 61.2 l S
+n 0 40.8 m 554.9291 40.8 l S
+n 0 20.4 m 554.9291 20.4 l S
+n 227.0165 0 m 227.0165 142.8 l S
+n 0 142.8 m 554.9291 142.8 l S
+n 0 0 m 554.9291 0 l S
+n 0 0 m 0 142.8 l S
+n 554.9291 0 m 554.9291 142.8 l S
+Q
+Q
+q
+1 0 0 1 20.17323 326.0819 cm
+Q
+q
+1 0 0 1 20.17323 288.8819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Convert to other types) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.4819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 55.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F3 12 Tf 14.4 TL (tuple\(s\)) Tj T* (set\(s\)) Tj T* (dict.fromkeys\(s\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 187.2819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Comprehension) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 166.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (LIST COMP:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 149.4819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL ([i**2 for i in range\(10\)]) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 131.0819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (SET COMP:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 113.6819 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL ({i**2 for i in range\(-5, 10\)}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 95.28189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (DICT COMP:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 77.88189 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL ({i**2 : i for i in range\(10\)}) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 59.48189 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F2 12 Tf 14.4 TL (GEN EXP:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 42.08189 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 4.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (sum\(i**2 for i in range\(10\)\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 42.08189 cm
+Q
+ 
+endstream
+endobj
+27 0 obj
+<<
+/Length 2264
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 793.6819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (With-Statement) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 773.2819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (How to use the with-statement for file closing and lock releasing:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 392.0819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 372 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 348 Tm /F3 12 Tf 14.4 TL (# The old way that STILL works) Tj T* (f = open\('notes/stocks.txt'\)) Tj T* (try:) Tj T* (    data = f.read\(\)) Tj T* (finally:) Tj T* (    f.close\(\)) Tj T*  T* (# The new way) Tj T* (with open\('notes/stocks.txt'\) as f:) Tj T* (    data = f.read\(\)) Tj T*  T*  T* (# The old way that STILL works) Tj T* (lock = threading.Lock\(\)) Tj T* (lock.acquire\(\)) Tj T* (try:) Tj T* (    crit1\(\)) Tj T* (    crit2\(\)) Tj T* (finally:) Tj T* (    lock.release\(\)) Tj T*  T* (# The new way) Tj T* (with lock:) Tj T* (    crit1\(\)) Tj T* (    crit2\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 354.8819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Coding style) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 334.4819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (LBYL -- look before you leap:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 226.8819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 98.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74.4 Tm /F3 12 Tf 14.4 TL (def average\(seq\):) Tj T* (    n = len\(seq\)) Tj T* (    if n == 0:) Tj T* (        return 1.0) Tj T* (    else:) Tj T* (        return sum\(seq\) / n) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 204.4819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (EAFP -- easier to ask forgiveness than permission:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 96.88189 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 98.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 74.4 Tm /F3 12 Tf 14.4 TL (def average\(seq\):) Tj T* (    n = len\(seq\)) Tj T* (    try:) Tj T* (        return sum\(seq\) / n) Tj T* (    except ZeroDivisionError:) Tj T* (        return 1.0) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+28 0 obj
+<<
+/Length 3740
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 793.6819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Regex notation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 448.9701 cm
+q
+q
+.977676 0 0 .977676 0 0 cm
+q
+1 0 0 1 6.6 6.7507 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 566.4 343.2 re B*
+Q
+q
+BT 1 0 0 1 0 319.2 Tm 14.4 TL /F3 12 Tf 0 0 0 rg (raymond             Does an exact match) Tj T* (profit|loss         Match either profit or loss) Tj T* (photo_...jpg        Dots match any character     photo_32.jpg) Tj T* (photo[a-g].jpg      Brackets match a character group    photoa.jpg photob.jpg) Tj T* ([aeiou]             Matches any single vowel) Tj T* ([^aeiou]            Matches any single non-vowel) Tj T*  T* (\\d                  [0-9] any digit) Tj T* (\\D                  [^0-9] any non-digit) Tj T* (\\w                  [A-Za-z0-9_] alphanumeric text with an underscore) Tj T* (\\W                  non-alphanumeric without an underscore) Tj T* (\\s                  space characters) Tj T* (\\S                  non-space characters) Tj T* (\\b                  word boundaries) Tj T*  T* (a?                  Match zero or one       a{0,1}) Tj T* (a+                  Match one or more       a{1,}) Tj T* (a*                  Match zero or more      a{0,}) Tj T* (a{m,n}              Match m to n) Tj T*  T* (match               Must match right at the beginning   --) Tj (>) Tj ( match object) Tj T* (search              May match anywhere                  --) Tj (>) Tj ( match object) Tj T* (findall             Finds them all                      --) Tj (>) Tj ( list of matches) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 426.5701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Recommendations:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 362.1701 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 55.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F3 12 Tf 14.4 TL (1. Always start with findall\(\)) Tj T* (2. Start with a small regex that matches, then grow it.) Tj T* (3. Always use raws strings for regexes) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 339.7701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Regular expression groups:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 203.3701 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 127.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 103.2 Tm /F3 12 Tf 14.4 TL (mo = re.search\(r'\(\\d+\)/\(\\d+\)/\(\\d+\)', data\)) Tj T* (mo.group\(\)    entire match) Tj T* (mo.group\(0\)   entire match) Tj T* (mo.group\(1\)   month) Tj T* (mo.group\(2\)   day) Tj T* (mo.group\(3\)   year) Tj T*  T* (month, day, year = re.search\(r'\(\\d+\)/\(\\d+\)/\(\\d+\)', s\).groups\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 166.1701 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Logging) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 145.7701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (To setup a logger:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 95.77013 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 40.8 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F3 12 Tf 14.4 TL (import logging) Tj T* (logging.basicConfig\(filename='example.log',level=logging.DEBUG\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 73.37013 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (To make log entries:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 23.37013 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 40.8 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.8 Tm /F3 12 Tf 14.4 TL (logging.debug\(msg\)) Tj T* (logging.info\(msg\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+29 0 obj
+<<
+/Length 4353
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 762.4819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 55.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F3 12 Tf 14.4 TL (logging.error\(msg\)) Tj T* (logging.critical\(msg\)) Tj T* (logging.warn\(msg\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 725.2819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Auto-documentation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 704.8819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (How to generate documentation automatically:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 669.2819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 26.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F3 12 Tf 14.4 TL ($ python -m pydoc -w vcard) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 632.0819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Directories) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 611.6819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Popular commands in the OS module:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 547.2819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 55.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 31.2 Tm /F3 12 Tf 14.4 TL (os.getcwd\(\)        # show the current working directory) Tj T* (os.listdir\('.'\)    # list the files in a given directory) Tj T* (os.chdir\(somedir\)  # change to another directory) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 510.0819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (How to use subprocess) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 445.6819 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 55.2 re B*
+Q
+q
+BT 1 0 0 1 0 31.2 Tm 14.4 TL /F3 12 Tf 0 0 0 rg (>) Tj (>) Tj (>) Tj ( import subprocess) Tj T* (>) Tj (>) Tj (>) Tj ( s = subprocess.getoutput\('netstat -a'\)) Tj T* (>) Tj (>) Tj (>) Tj ( [line.split\(\)[4] for line in s.splitlines\(\) if 'tcp4' in line]) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 408.4819 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (REST APIs) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 388.0819 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (QR codes:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 342.8026 cm
+q
+q
+.887603 0 0 .887603 0 0 cm
+q
+1 0 0 1 6.6 7.43576 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 624 40.8 re B*
+Q
+q
+BT 1 0 0 1 0 16.8 Tm 14.4 TL /F3 12 Tf 0 0 0 rg (https://developers.google.com/chart/infographics/docs/qr_codes) Tj T* (http://chart.apis.google.com/chart?cht=qr) Tj (&) Tj (chs=300x300) Tj (&) Tj (chl=Hello%20World --) Tj (>) Tj ( hello.png) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 320.4026 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (Twitter:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 270.4026 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 40.8 re B*
+Q
+q
+BT 1 0 0 1 0 16.8 Tm 14.4 TL /F3 12 Tf 0 0 0 rg (https://dev.twitter.com/docs/api/1/get/search) Tj T* (http://search.twitter.com/search.json?q=@raymondh) Tj (&) Tj (rpp=10) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 233.2026 cm
+q
+BT 1 0 0 1 0 4.2 Tm 25.2 TL /F2 21 Tf 0 0 0 rg (Debugger) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 212.8026 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (To run the debugger from the command-line \(not the interactive prompt\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 177.2026 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 26.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F3 12 Tf 14.4 TL ($ python -m pdb tweet_bug.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 154.8026 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.4 Tm /F1 12 Tf 14.4 TL (The most common debugger commands:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 32.80258 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 553.7291 112.8 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 88.8 Tm /F3 12 Tf 14.4 TL (c   - continue until an exception or normal finish) Tj T* (n   - next \(run to the next line\)) Tj T* (l   - list the source and show where you are) Tj T* (b   - set a breakpoint) Tj T* (p   - print a variable) Tj T* (pp  - pretty print a variable) Tj T* (q   - quit) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+ 
+endstream
+endobj
+30 0 obj
+<<
+/Nums [ 0 31 0 R 1 32 0 R 2 33 0 R 3 34 0 R ]
+>>
+endobj
+31 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+32 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+33 0 obj
+<<
+/S /D /St 3
+>>
+endobj
+34 0 obj
+<<
+/S /D /St 4
+>>
+endobj
+xref
+0 35
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000448 00000 n 
+0000000653 00000 n 
+0000000858 00000 n 
+0000001063 00000 n 
+0000001268 00000 n 
+0000001373 00000 n 
+0000001644 00000 n 
+0000001719 00000 n 
+0000001830 00000 n 
+0000001966 00000 n 
+0000002102 00000 n 
+0000002229 00000 n 
+0000002357 00000 n 
+0000002483 00000 n 
+0000002611 00000 n 
+0000002732 00000 n 
+0000002864 00000 n 
+0000002989 00000 n 
+0000003124 00000 n 
+0000003247 00000 n 
+0000003356 00000 n 
+0000003434 00000 n 
+0000009046 00000 n 
+0000011362 00000 n 
+0000015154 00000 n 
+0000019559 00000 n 
+0000019627 00000 n 
+0000019661 00000 n 
+0000019695 00000 n 
+0000019729 00000 n 
+trailer
+<<
+/ID 
+[<25a0e4e7f7a703b03173498671b48c37><25a0e4e7f7a703b03173498671b48c37>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 10 0 R
+/Root 9 0 R
+/Size 35
+>>
+startxref
+19763
+%%EOF
