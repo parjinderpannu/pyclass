@@ -1,0 +1,5 @@
+# Day 4
+ssh -p 2222 cisco@lab.glidelink.net
+pip install pexpect
+username: cisco
+password: cisco
